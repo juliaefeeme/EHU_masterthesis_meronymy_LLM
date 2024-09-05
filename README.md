@@ -1,3 +1,3 @@
-# COMMONSENSE KNOWLEDGE BASES: MERONYMIC RELATIONSHIPS ACQUISITION AND THEIR VERIFICATION WITH LARGE LANGUAGE MODELS
+# Commonsense Knowledge Bases: Meronymic Relationships Acquisition and their Verification with Large Language Models
 ![tail2](https://github.com/user-attachments/assets/225614dc-c890-476b-b932-7896e00dc809)
 
