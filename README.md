@@ -1,2 +1,2 @@
 # COMMONSENSE KNOWLEDGE BASES: MERONYMIC RELATIONSHIPS ACQUISITION AND THEIR VERIFICATION WITH LARGE LANGUAGE MODELS
-![2openart-image_-7QTgi-N_1719592650998_raw](https://github.com/user-attachments/assets/c0ee1c98-cb64-400e-839f-ef581071d8df)
+![tail](https://github.com/user-attachments/assets/699d27d7-134a-4219-a0eb-18453e8eb46d)
