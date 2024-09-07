@@ -12,19 +12,19 @@ The research focuses on automating the whole process and showing how AI can impr
 
 ## Methodology
 1. Eight CSKBs: AristoTupleKB, Ascent++, ConceptNet, HasPartKB, Quasimodo, TransOMCS, Uncommonsense, VisualGenome
-  - extraction of *PartOf*, *MemberOf*, *SubstanceOf* and *Has* relationships
-  - random sample for manual evaluation
-      . Are the samples actually relations?
+  - Extraction of *PartOf*, *MemberOf*, *SubstanceOf* and *Has* relationships
+  - Random sample for manual evaluation
+      - Are the samples actually relations?
 2. Prompting LLMs (GPT4, LLaMA3.1, Phi3)
-  - testing the language models to observe if they can be used as a tool to validate meronymic relations
+  - Testing the language models to observe if they can be used as a tool to validate meronymic relations
 
 ## Results
 **CSKBs**
 
-. 435,791 examples of meronymic pairs
-. random sample of 150 examples: 
-    . 106 valid
-    . 44 invalid
+- 435,791 examples of meronymic pairs
+- Random sample of 150 examples: 
+    - 106 valid
+    - 44 invalid
 
 **LLMs**
 | Metrics    | GPT-4 | LLaMA-3.1 | Phi-3 |
