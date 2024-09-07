@@ -2,6 +2,11 @@
 ![tail2](https://github.com/user-attachments/assets/225614dc-c890-476b-b932-7896e00dc809)
 
 ## Introduction
+In the rapidly growing field of AI, especially in Natural Language Processing (NLP), adding commonsense knowledge (CSK) is important to improve large language models (LLMs). While these models are good at generating text, they often struggle with understanding basic semantic relationships. 
+
+This study aims to enhance WordNet, a popular lexical database, by gathering part-whole relationships (like "bird-tail") from various CSK databases and validating them using LLMs. 
+
+The research focuses on automating the whole process and showing how AI can improve linguistic databases and commonsense understanding.
 
 ## Methodology
 
