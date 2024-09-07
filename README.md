@@ -29,10 +29,10 @@ The research focuses on automating the whole process and showing how AI can impr
 **LLMs**
 | Metrics    | GPT-4 | LLaMA-3.1 | Phi-3 |
 |------------|-------|-----------|-------|
-| Precision  | 0.95  | 0.95      | 0.93  |
-| Recall     | 0.94  | 0.89      | 0.77  |
-| F1-score   | 0.95  | 0.92      | 0.85  |
-| Accuracy   | 0.93  | 0.89      | 0.80  |
+| Precision  | **0.95**  | **0.95**      | 0.93  |
+| Recall     | **0.94**  | 0.89      | 0.77  |
+| F1-score   | **0.95**  | 0.92      | 0.85  |
+| Accuracy   | **0.93**  | 0.89      | 0.80  |
 
 ## Conclusions
 The study confirms that LLMs, especially GPT-4, can accurately validate these relationships, achieving over 95% accuracy. 
